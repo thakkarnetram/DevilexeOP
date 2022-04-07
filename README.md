@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...App/Web Dev
 - 🌱 I’m currently learning ...Html,css,java,python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...instagram @devil_.dzns
+- 📫 How to reach me ...instagram @d3vil.exe
 
 <!---
 DevilexeOP/DevilexeOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
