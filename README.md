@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DevilexeOP
+- 👋 Hi, I’m @D3vilOPエース
 - 👀 I’m interested in ...App/Web Dev
 - 🌱 I’m currently learning ...Web Dev and Ai and Ml
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...instagram @d3vil.exe
 
 <!---
