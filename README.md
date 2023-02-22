@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Netram Thakkar</h1>
 <h3 align="center">App/Web Developer from India</h3>
 
-<img align="center" alt="coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="flex-start" alt="coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilexeop&label=Profile%20views&color=0e75b6&style=flat" alt="devilexeop" /> </p>
 
