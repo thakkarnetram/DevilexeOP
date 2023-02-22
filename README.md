@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Netram Thakkar</h1>
 <h3 align="center"> <strong> App/Web Developer from India </strong> </h3>
 
-<img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/d3vilexeop" target="blank"><img src="https://img.shields.io/twitter/follow/d3vilexeop?logo=twitter&style=for-the-badge" alt="d3vilexeop" /></a> </p>
 
