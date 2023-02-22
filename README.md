@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Netram Thakkar</h1>
-<h3 align="center">App/Web Developer from India</h3>
+<h3 align="center"> <b> App/Web Developer from India </b> </h3>
 
 <img align="flex-start" alt="coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
