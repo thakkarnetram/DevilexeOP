@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **thakkarnetram10@gmail.com**
 
-- 📄 Know about my experiences [UI/UX at instaED , Kolkata](UI/UX at instaED , Kolkata)
+- 📄 Know about my experiences [UI/UX Designer at instaED , Kolkata]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
