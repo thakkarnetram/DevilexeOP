@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/d3vilexeop" target="blank"><img src="https://img.shields.io/twitter/follow/d3vilexeop?logo=twitter&style=for-the-badge" alt="d3vilexeop" /></a> </p>
 
-- 🔭 I’m currently working on [todoApp using MERN](https://github.com/DevilexeOP/toDoApp-reactNative)
+- 🌱 I’m currently learning **Java & XML**
 
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on **React Native Apps**
 
 - 👨‍💻 Portfolio Link => [https://www.figma.com/file/lJdzx24NBD6VdfaTtyGwS3/Portfolio-webiste?node-id=0%3A1&t=vd1Jim44wsVIyU3h-1](https://www.figma.com/file/lJdzx24NBD6VdfaTtyGwS3/Portfolio-webiste?node-id=0%3A1&t=vd1Jim44wsVIyU3h-1)
 
-- 💬 Ask me about **MERN Stack , DSA , C++ , C# ,Flutter , Linux**
+- 💬 Ask me about **MERN Stack , JAVA & XML ,DSA , C++ , C# ,Flutter , Linux**
 
 - 📫 How to reach me **thakkarnetram10@gmail.com**
 
