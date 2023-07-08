@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilexeop&show_icons=true&locale=en&layout=compact" alt="devilexeop" /></p>
 
-<a href="https://wakatime.com"><img width="400" src="https://wakatime.com/share/@fed30898-045e-4e9a-9127-2386c6e3ce36/3ef3121a-f6ad-4e4d-b64c-a523135a59b4.png" /></a>
+<a href="https://wakatime.com"><img width="400" height="250" src="https://wakatime.com/share/@fed30898-045e-4e9a-9127-2386c6e3ce36/3ef3121a-f6ad-4e4d-b64c-a523135a59b4.png" /></a>
 
 <p>&nbsp;<img  width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=devilexeop&show_icons=true&locale=en" alt="devilexeop" /></p>
 
