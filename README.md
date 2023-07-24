@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **MERN Stack, React-Native , Android Dev  ,DSA , C++ , C# ,Flutter,Game Dev, Linux**
 
-- 📫 How to reach me **thakkarnetram10@gmail.com**
+- 📫 How to reach me **thakkarnetram10@outlook.com**
 
-- 📄 Know about my experiences [UI/UX Designer  at instaED , Kolkata],[Software Dev Intern  at Rymo , Navi Mumbai]
+- 📄 Know about my experiences [Software Dev Intern  at Rymo , Navi Mumbai],[UI/UX Designer  at instaED , Kolkata]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
