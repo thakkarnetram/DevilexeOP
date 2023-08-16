@@ -7,11 +7,11 @@
 
 - 👨‍💻 Portfolio Link => [https://www.figma.com/file/lJdzx24NBD6VdfaTtyGwS3/Portfolio-webiste?node-id=0%3A1&t=vd1Jim44wsVIyU3h-1](https://www.figma.com/file/lJdzx24NBD6VdfaTtyGwS3/Portfolio-webiste?node-id=0%3A1&t=vd1Jim44wsVIyU3h-1)
 
-- 💬 Ask me about **MERN Stack, React-Native , Android Dev  ,DSA , C++ , C# ,Flutter,Game Dev, Linux**
+- 💬 Ask me about **React-Native,Node,GO,Android,DSA,C++,Linux**
 
 - 📫 How to reach me **thakkarnetram10@outlook.com**
 
-- 📄 Know about my experiences [Software Dev Intern  at Rymo , Navi Mumbai],[UI/UX Designer  at instaED , Kolkata]
+- 📄 Worked as  [Software Dev Intern  at Rymo , Navi Mumbai],[UI/UX Designer  at instaED , Kolkata]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
