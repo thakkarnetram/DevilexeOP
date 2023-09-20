@@ -32,10 +32,10 @@
 
 ###
 
-<p align="left">💬 Ask me about React-Native,Node,GO,Android,DSA,C++,Linux<br><br>📫 How to reach me thakkarnetram10@outlook.com<br><br>📄 Worked as <br> 
+<p align="left">💬 Ask me about React-Native,Node,GO,Android,DSA,C++,Linux<br><br>📫 How to reach me thakkarnetram10@outlook.com<br><br>
+  📄 Worked as <br> 
   [ Software Dev Intern at Rymo , Navi Mumbai ]<br>
-  👨🏻‍💻 Working as <br>
-  <br>[ Software Dev Intern at MentorChamp EdTech, Navi Mumbai ]<br>[ UI/UX Designer at instaED , Kolkata ]</p>
+  👨🏻‍💻 Working as <br> [ Software Dev Intern at MentorChamp EdTech, Navi Mumbai ]<br>[ UI/UX Designer at instaED , Kolkata ]</p>
 
 ###
 
